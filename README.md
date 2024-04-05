@@ -1,9 +1,4 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
-</div>
-
-<!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
+<h3 align="center">Tech Stack</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp
@@ -13,7 +8,7 @@
 
 <br>
 
-<h3 align="center">🛠 Tools 🛠</h3>
+<h3 align="center">Tools</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
@@ -23,7 +18,7 @@
 
 <br>
 
-<h3 align="center">📫 Contact 📫</h3>
+<h3 align="center">Contact</h3>
 <div align="center">
   <a href="mailto:kkyo9753@gmail.com">
     <img src="https://img.shields.io/badge/kkyo9753@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp
