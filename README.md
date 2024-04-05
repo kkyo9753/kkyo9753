@@ -20,6 +20,9 @@
 
 <h3 align="center">Contact</h3>
 <div align="center">
+  <a href="https://github.com/kkyo9753">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+  </a>
   <a href="mailto:kkyo9753@gmail.com">
     <img src="https://img.shields.io/badge/kkyo9753@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp
   </a>
