@@ -1,6 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-<https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white>
+
+[![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+
 <!--
 **kkyo9753/kkyo9753** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
