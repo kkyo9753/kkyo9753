@@ -1,7 +1,8 @@
-![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
-![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)]
-![NLP Badge](https://img.shields.io/badge/NLP-4B0082?style=for-the-badge&logo=natural-language-processing&logoColor=white)]
-![Hugging Face Badge](https://img.shields.io/badge/Hugging_Face-0074d9?style=for-the-badge&logo=huggingface&logoColor=white)]
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NLP Badge](https://img.shields.io/badge/NLP-4B0082?style=for-the-badge&logo=natural-language-processing&logoColor=white)
+![Hugging Face Badge](https://img.shields.io/badge/Hugging_Face-0074d9?style=for-the-badge&logo=huggingface&logoColor=white)
+
 
 <!--
 **kkyo9753/kkyo9753** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
