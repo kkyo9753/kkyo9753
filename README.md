@@ -1,5 +1,7 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20World%20🤗&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=ff0000&height=300&section=header&text=Hello%20World%20🤗&fontSize=50" />
+</div>
+
 
 <h3 align="center"Language</h3>
 <div align="center">
