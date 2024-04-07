@@ -1,9 +1,10 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Welcome%20to%20Gyucheol's%20GitHub%20Profile&fontSize=90" />
+</div>
 
 <br>
 
-<h3 align="center">Welcome to Gyucheol's GitHub Profile</h3>
+<h3 align="center"Language</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp
 </div>
