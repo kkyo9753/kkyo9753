@@ -1,8 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Welcome%20to%20Gyucheol's%20GitHub%20Profile&fontSize=50" />
-</div>
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20World!&fontSize=90" />
 
 <h3 align="center"Language</h3>
 <div align="center">
